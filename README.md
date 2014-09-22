@@ -1,6 +1,6 @@
 ContrastImage
 =============
 
-Convert iamge color using contrast
+Convert image color using contrast
 
 atiatulmaula.wordpress.com
